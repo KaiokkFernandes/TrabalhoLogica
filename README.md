@@ -2,6 +2,9 @@
 
 Trabalho da disciplina de Lógica de Programação. Jogo automático executado no terminal, desenvolvido em C utilizando matriz bidimensional como tabuleiro.
 
+<img width="588" height="374" alt="image" src="https://github.com/user-attachments/assets/5bb4b2dc-1e6e-485e-8e69-15120d44b397" />
+
+
 ## Tema
 
 Robô explorador que percorre um labirinto coletando itens, buscando uma chave e tentando chegar à saída antes que a energia acabe ou o inimigo o alcance.
